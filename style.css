@@ -1,0 +1,438 @@
+*{
+    font-family:serif;
+}
+body{
+    background-color: black;
+    color: white;
+}
+
+.netflixclone{
+    background-image: linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.5)),url(https://assets.nflxext.com/ffe/siteui/vlv3/83e8c151-107d-4e8f-b95a-d2ba99d49bb9/f1ac72e1-5adc-4caf-bceb-e8ec775414ac/IN-en-20230213-popsignuptwoweeks-perspective_alpha_website_small.jpg);
+    width: 100wh;
+    height: 100vh;
+    
+
+}
+
+.first{
+    display: flex;
+    
+    
+}
+.second img{
+    width: 150px;
+    margin-top: 40px;
+    margin-left: 50px;
+}
+.third{
+    border: 2px solid white;
+    margin-left: 900px;
+    margin-top: 50px;
+    width: 100px;
+    height: 30px;
+    
+    
+}
+.third i{
+    margin-top: 5px;
+    margin-left: 10px ;
+    color: white;
+
+    
+}
+.third span{
+    color: white;
+}
+.forth{
+    margin-top: 50px;
+    margin-left: 20px;
+    
+    
+}
+.forth button{
+    font-size: 21px;
+    font-family:serif;
+    border-radius: 5px;
+    width:90px ;
+    height: 35px;
+    background-color: red;
+    color: white;
+    cursor: pointer;
+
+}
+.fifth{
+    
+    width: 800px;
+    line-height: 40px;
+    margin-left: 350px;
+}
+
+.fifth  h3{
+    font-size: 50px;
+    color: white;
+    
+}
+.fifth span{
+    margin-left: 180px;
+    color: white;
+}
+.sixth p{
+    font-size: 35px;
+    margin-top: -30px;
+    margin-left: 60px;
+    color: white;
+}
+.seventh p{
+    font-size: 22px;
+    margin-top: -20px;
+    color: white;
+}
+.eighth{
+    width: 1000px;
+    height: 100px;
+    margin-left: 270px;
+    padding: 10px;
+    display: flex;
+    position: relative;
+    
+}
+.emailbox input{
+    width: 700px;
+    padding: 20px;
+    font-size: 15px;
+    position: absolute;
+    outline: none;
+   
+}
+.buttonbox button{
+ font-size: 25px;
+ padding: 14px;
+ margin-left: 585px;
+ outline: none;
+ position: absolute;
+ color:white;
+ background-color: red;
+ cursor: pointer;
+}
+
+
+.secondpage{
+    height: 500px;
+    width: 100%;
+    border-bottom: 5px solid rgb(129, 123, 123);
+    border-top: 5px solid rgb(129, 123, 123);
+}
+
+.nineth img{
+    
+    float: right;
+    margin-right: 150px;
+    margin-top: -350px;
+    width: 500px;
+    z-index: -1;
+    
+}
+.nineth{
+    margin-top: 200px;
+    
+
+}
+.nineth  h2{
+    font-size: 3rem;
+    margin-left: 180px;
+    width: 400px;
+    margin-top: -100px;
+   
+}
+
+.nineth p,pre{
+    margin-left: 150px;
+    width: 450px;
+    font-size: 25px;
+   
+}
+.tag video{
+  width: 365px;
+  margin-top: -370px;
+  margin-left:777px ;
+  float: right;
+  position: absolute;
+  z-index: -1;
+
+}
+.thirdpage{
+    width: 100%;
+    height: 500px;
+    
+}
+.phone img{
+    width: 500px;
+    margin-left: 80px;
+    z-index: -1;
+}
+.stranger{
+    
+    width: 300px;
+    height: 100px;
+    position:absolute;
+    border-radius: 10px;
+    margin-left: 180px;
+    margin-top: -120px;
+    background-color: black;
+    background-image: url(https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/download-icon.gif);
+    background-repeat: no-repeat;
+    background-position: 14em;
+    background-size: 4rem;
+    
+}
+.stranger img{
+    width: 50px;
+    margin-left: 18px;
+    margin-top: 15px;
+}
+.stranger h3{
+    margin-left: 89px;
+    margin-top: -73px;
+
+}
+.stranger a{
+    margin-left: 89px;
+    line-height: -5px;
+    
+}
+
+.eleven{
+    width: 550px;
+    height: 300px;
+    float: right;
+    margin-right: 150px;
+    margin-top: 70px;
+}
+.eleven h2{
+  font-size: 50px;
+}
+.eleven p{
+    font-size: 30px;
+}
+.forthpage{
+    border-top: 5px solid rgb(85, 84, 85);
+    border-bottom: 5px solid rgb(85, 84, 85);
+    width: 100%;
+    height: 500px;
+}
+.twelve{
+    margin-left: 100px;
+    margin-top: 120px;
+    width: 600px;
+}
+.twelve h2{
+    font-size: 50px;
+    line-height: 10px;
+}
+.twelve p{
+    font-size: 30px;
+}
+.thirteen img{
+    width: 550px;
+    float: right;
+    margin-top: -280px;
+    margin-left: 720px;
+    position: absolute;
+    
+}
+video{
+    margin-top: -349px;
+    background-repeat: no-repeat;
+    z-index: -1;
+    margin-left: 824px;
+    height: 400px;
+    width: 339px;
+}
+.thirteen{
+    margin-top: 50px;
+}
+.fifthpage{
+    border-bottom: 5px solid rgb(85, 84, 85);
+    height: 500px;
+    display: flex;
+}
+
+.thirteen h2{
+    font-size: 60px;
+}
+.thirteen p{
+    font-size: 30px;
+}
+.sixthpage{
+    border-bottom: 5px solid rgb(85, 84, 85);
+    height: 900px;
+}
+.sixthpage h1{
+    font-size: 50px;
+    margin-left: 380px;
+}
+
+.buton{
+    text-align: center;
+    width: 900px;
+    height: 80px;
+    margin-left: 220px;
+    background-color: gray;
+}
+.buton span{
+    font-size: 50px;
+    margin-left: -450px;
+    color: white;
+    
+}
+.fa-plus{
+    font-size: 30px;
+    float: right;
+    margin-top: 12px;
+    color: white;
+    
+}
+.how{
+    text-align: center;
+    width: 900px;
+    height: 80px;
+    margin-left: 220px;
+    background-color: gray;
+}
+
+.how span{
+    font-size: 50px;
+    margin-left: -160px;
+    color: white;
+    
+}
+.where{
+    text-align: center;
+    width: 900px;
+    height: 80px;
+    margin-left: 220px;
+    background-color: gray;
+}
+.where span{
+    font-size: 50px;
+    margin-left: -380px;
+    color: white;
+    
+}
+.do{
+    text-align: center;
+    width: 900px;
+    height: 80px;
+    margin-left: 220px;
+    background-color: gray;
+}
+.do span{
+    font-size: 50px;
+    margin-left: -420px;
+    color: white;
+    
+}
+.what{
+    text-align: center;
+    width: 900px;
+    height: 80px;
+    margin-left: 220px;
+    background-color: gray;
+}
+.what span{
+    font-size: 50px;
+    margin-left: -200px;
+    color: white;
+    
+}
+.Is{
+    text-align: center;
+    width: 900px;
+    height: 80px;
+    margin-left: 220px;
+    background-color: gray;
+}
+.Is span{
+    font-size: 50px;
+    margin-left: -280px;
+    color: white;
+    
+}
+li{
+    margin-bottom: 20px;
+}
+.twenty{
+    font-size: 30px;
+    margin-left: 250px;
+}
+.twentytwo{
+    width: 700px;
+    padding: 20px;
+    font-size: 15px;
+    position: absolute;
+    outline: none;
+    margin-left: 300px;
+}
+.twentyone{
+    font-size: 25px;
+ padding: 14px;
+ margin-left: 585px;
+ outline: none;
+ position: absolute;
+ color:white;
+ background-color: red;
+ cursor: pointer;
+ margin-left: 885px;
+}
+.seventhpage{
+width: 100%;
+height: 400px;
+border-bottom: 5px solid rgb(85, 84, 85);
+
+}
+.points{
+display: flex;
+justify-content: space-between;
+margin-top: 10px;
+width: 900px;
+margin-left: 200px;
+
+}
+.seventhpage p{
+    margin-left: 200px;
+    margin-top: 50px;
+}
+li{
+    list-style: none;
+}
+.bottomkaam{
+    border: 2px solid rgb(200, 200, 194);
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    margin-left: 200px;
+    margin-top: 20px;
+    
+}
+.bottomkaam i{
+    margin-top: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
